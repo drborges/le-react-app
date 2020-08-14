@@ -1,2 +1,2 @@
-# le-react-app
+# react-walkthrough
 Created with CodeSandbox
